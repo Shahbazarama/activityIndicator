@@ -1,2 +1,0 @@
-# activityIndicator
-spinning wheel
